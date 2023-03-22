@@ -19,7 +19,7 @@ int main(){
     int pilihan;
   
     do {
-    cout << "\n================" << endl;
+    cout << "\n\n================" << endl;
     cout << "======MENU======" << endl;
     cout << "================" << endl;
     cout << "1. Luas Persegi" << endl;
